@@ -1,1 +1,1 @@
-explaining about project info
+explaining about project information
